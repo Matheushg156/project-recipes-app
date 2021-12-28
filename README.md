@@ -12,9 +12,10 @@ O layout tem como foco dispositivos móveis, então todos os protótipos vão es
   <img src="./GifComidas1.gif" width="360" height="640" />
   <img src="./GifBebidas.gif" width="360" height="640" />
 </div>
+
 ---
 
-# Técnologias usadas
+# Tecnologias usadas
 
 Nesse projeto, utilizamos:
 
