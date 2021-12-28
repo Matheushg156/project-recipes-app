@@ -8,9 +8,10 @@ A base de dados são 2 APIs distintas, uma para comidas e outra para bebidas.
 
 O layout tem como foco dispositivos móveis, então todos os protótipos vão estar desenvolvidos em telas menores.
 
-![img](GifComidas1.gif)
-![img](GifBebidas.gif)
-
+<div>
+  <img src="./GifComidas1.gif" width="360" height="640" />
+  <img src="./GifBebidas.gif" width="360" height="640" />
+</div>
 ---
 
 # Técnologias usadas
