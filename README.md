@@ -1,6 +1,6 @@
 # Projeto App de Receitas!
 
-Esse projeto foi desnvolvido em grupo no curso de Desenvolvimento de Software Web da Trybe. O objetivo foi desenvolver um app de receitas, utilizando o que há de mais moderno dentro do ecossistema React: Hooks e Context API!
+Esse projeto foi desenvolvido em grupo no curso de Desenvolvimento de Software Web da Trybe. O objetivo foi desenvolver um app de receitas, utilizando o que há de mais moderno dentro do ecossistema React: Hooks e Context API!
 
 Nesse app é possível ver, buscar, filtrar, favoritar e acompanhar o processo de preparação de receitas e drinks!
 
